@@ -1,6 +1,6 @@
 NOTE: THIS IS A TEST SCRIPT SIMULATING MALWARE.
 Only run this script inside of test systems. Only run it with administrator approval. Do not use this script to cause harm to production systems.  
-This script exists as a proof of concept for education only. It highlights the importance of using externally provided tools instead of built in system binaries during forensics activities.
+This script exists as a proof of concept for education purposes only. It highlights the importance of using externally provided tools instead of built in system binaries during forensics activities.
 
 #usage: supertrojan <netstat> <ps> <ls> <yyyymmddhhmm>  
 #example: Imagine you have a backdoor on a computer. the backdoor displays in the file list as "Malware.file", in the process list as "malware.process", and can be seen in the netstat on port 1337.  
